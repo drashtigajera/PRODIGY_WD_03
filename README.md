@@ -13,3 +13,5 @@ HTML, CSS, & JavaScript
 
 # Preview:
 This is preview of the project. You can visit live preview on Here.
+
+[Click here..](https://tic-tac-toe-webapp-task.netlify.app)
